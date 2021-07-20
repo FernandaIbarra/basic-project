@@ -1,9 +1,11 @@
 namespace basic.project.models
 {
     public class modelOne { 
-        public string foo {get; set;}
+        public string Foo {get; set;}
 
-        public string bar {get; set;}
+        public string Bar {get; set;}
+
+        public string Lorem {get; set;}
 
     }
     
